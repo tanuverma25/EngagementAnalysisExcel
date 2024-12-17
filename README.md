@@ -13,3 +13,5 @@ Regional Analysis: Indian students on the free plan watched more minutes on aver
 Subscription Impact: Paying students consistently demonstrated higher engagement levels than free-plan students across both periods.
 ## Conclusion.
 This project highlights proficiency in Excel for statistical analysis and provides actionable insights into user behavior, supporting data-driven decisions for product and strategy improvements.
+
+For a detailed walk through, checkout the [Blog](https://medium.com/@whoistanu18/trends-tests-and-insights-student-engagement-analysis-using-excel-part-1-fcabb99c8f43)
